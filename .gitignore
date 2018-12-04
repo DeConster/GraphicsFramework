@@ -1,0 +1,7 @@
+GraphicsFramework/GraphicsFramework/GraphicsFramework.vcxproj.user
+GraphicsFramework/GraphicsFramework/GraphicsFramework.vcxproj.filters
+
+GraphicsFramework/GraphicsFramework/GraphicsFramework.vcxproj
+GraphicsFramework/libs/
+GraphicsFramework/.vs
+GraphicsFramework/*.sln
